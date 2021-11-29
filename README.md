@@ -4,12 +4,12 @@ Used: JS, HTML, CSS, BEM;
 
 Pages was adapt to the following screens:
 
-Large screens 2560px
-Full HD 1920px
-The design 1600px
-Notebook 1280px
-Tablet 1024
-Mobile (> 320px)
+1. Large screens 2560px
+2. Full HD 1920px
+3. The design 1600px
+4. Notebook 1280px
+5. Tablet 1024
+6. Mobile (> 320px)
 
-Preview link: https://github.com/skachkov23/DIA-Landing-Page.git;
-Demo link: https://skachkov23.github.io/DIA-Landing-Page/;
+[Preview link] https://github.com/skachkov23/DIA-Landing-Page.git;
+[Demo link] https://skachkov23.github.io/DIA-Landing-Page/;
