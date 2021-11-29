@@ -25,5 +25,4 @@ Used: JS, HTML, CSS, BEM;
 10. Implement Contact us block.
 11. Implement the footer.
 
- - [Preview link] https://github.com/skachkov23/DIA-Landing-Page.git;
- - [Demo link] https://skachkov23.github.io/DIA-Landing-Page/;
+- [Preview link] (https://skachkov23.github.io/DIA-Landing-Page/)
