@@ -11,5 +11,5 @@ Pages was adapt to the following screens:
 5. Tablet 1024
 6. Mobile (> 320px)
 
-[Preview link] https://github.com/skachkov23/DIA-Landing-Page.git;
-[Demo link] https://skachkov23.github.io/DIA-Landing-Page/;
+[Preview link-1] https://github.com/skachkov23/DIA-Landing-Page.git;
+[Demo link-2] https://skachkov23.github.io/DIA-Landing-Page/;
