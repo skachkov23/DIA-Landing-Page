@@ -10,3 +10,6 @@ The design 1600px
 Notebook 1280px
 Tablet 1024
 Mobile (> 320px)
+
+Preview link: https://github.com/skachkov23/DIA-Landing-Page.git;
+Demo link: https://skachkov23.github.io/DIA-Landing-Page/;
