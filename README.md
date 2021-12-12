@@ -1,6 +1,12 @@
 # Dia landing page
-[Figma design] - (https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
-Used: JS, HTML, CSS, BEM;
+
+## Technologies used in project:
+
+- JS
+- HTML5
+- CSS3 (SCSS)
+- Figma
+- BEM-methodology
 
 ## Pages was adapt to the following screens:
 
@@ -11,18 +17,9 @@ Used: JS, HTML, CSS, BEM;
 - Tablet 1024
 - Mobile (> 320px)
 
-## Checklist:
+## Preview:
 
-1. Implement the header with nav.
-2. Implement Strategic agency block.
-3. Implement slider.
-4. Implement Who we are block.
-5. Implement Our expertise block with the card reused 3 times.
-6. Implement Process block with 4 process cards.
-7. Implement Testimonials block.
-8. Implement Vision, Passion, Results block.
-9. Implement Send us a message block.
-10. Implement Contact us block.
-11. Implement the footer.
+- Click here to see [Preview link] (https://skachkov23.github.io/DIA-Landing-Page/)
 
-- [Preview link] (https://skachkov23.github.io/DIA-Landing-Page/)
+## Design:
+- Implement landing page according to [Figma design] - (https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
