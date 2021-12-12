@@ -19,7 +19,7 @@
 
 ## Preview:
 
-- Click here to see [Preview link](https://skachkov23.github.io/DIA-Landing-Page/)
+- Click here to see [Preview](https://skachkov23.github.io/DIA-Landing-Page/)
 
 ## Design:
 - Implement landing page according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
